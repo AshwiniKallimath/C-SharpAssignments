@@ -10,7 +10,7 @@ namespace Assignment03
         {
 
             Employee obj = new Employee();
-            Console.WriteLine("----------Accepting Employee Details----------");
+            Console.WriteLine("Accepting Employee Details:");
 
             Console.WriteLine("Enter Employee Number:");
             int no = int.Parse(Console.ReadLine());
@@ -34,7 +34,7 @@ namespace Assignment03
 
             obj.setEmpDetails(no, name, salary);
 
-            Console.WriteLine("\n----------Displaying Employee Details----------");
+            Console.WriteLine("\nDisplaying Employee Details :");
 
             obj.getEmpDetails();
 
@@ -67,7 +67,7 @@ namespace Assignment03
             bool isexist = list.Contains(target);
             if (isexist)
             {
-                Console.WriteLine("Element found in the list");
+                Console.WriteLine("Elements found in the list");
             }
             else
             {
@@ -101,7 +101,7 @@ namespace Assignment03
             obj.CalculateSalary(result_gross);
             obj.showSalary();
 
-            Console.WriteLine("\n---------Displaying Marketing Executive----------");
+            Console.WriteLine("\nDisplaying Marketing Executive:");
 
             MarketingExecutive obj2 = new MarketingExecutive();
 
