@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Calculator.cs\Calculator.cs\bin\Debug\Calculator.cs.exe.config
+C:\Users\HP\source\repos\Calculator.cs\Calculator.cs\bin\Debug\Calculator.cs.exe
+C:\Users\HP\source\repos\Calculator.cs\Calculator.cs\bin\Debug\Calculator.cs.pdb
+C:\Users\HP\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.exe
+C:\Users\HP\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.pdb

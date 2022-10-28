@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\swap4.cs\swap4.cs\bin\Debug\swap4.cs.exe.config
+C:\Users\HP\source\repos\swap4.cs\swap4.cs\bin\Debug\swap4.cs.exe
+C:\Users\HP\source\repos\swap4.cs\swap4.cs\bin\Debug\swap4.cs.pdb
+C:\Users\HP\source\repos\swap4.cs\swap4.cs\obj\Debug\swap4.cs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\swap4.cs\swap4.cs\obj\Debug\swap4.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\swap4.cs\swap4.cs\obj\Debug\swap4.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\swap4.cs\swap4.cs\obj\Debug\swap4.cs.exe
+C:\Users\HP\source\repos\swap4.cs\swap4.cs\obj\Debug\swap4.cs.pdb

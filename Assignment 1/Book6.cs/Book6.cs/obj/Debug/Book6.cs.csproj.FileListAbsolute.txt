@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Book6.cs\Book6.cs\bin\Debug\Book6.cs.exe.config
+C:\Users\HP\source\repos\Book6.cs\Book6.cs\bin\Debug\Book6.cs.exe
+C:\Users\HP\source\repos\Book6.cs\Book6.cs\bin\Debug\Book6.cs.pdb
+C:\Users\HP\source\repos\Book6.cs\Book6.cs\obj\Debug\Book6.cs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Book6.cs\Book6.cs\obj\Debug\Book6.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Book6.cs\Book6.cs\obj\Debug\Book6.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Book6.cs\Book6.cs\obj\Debug\Book6.cs.exe
+C:\Users\HP\source\repos\Book6.cs\Book6.cs\obj\Debug\Book6.cs.pdb

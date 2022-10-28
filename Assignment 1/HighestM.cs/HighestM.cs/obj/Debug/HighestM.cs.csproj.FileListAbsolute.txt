@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\HighestM.cs\HighestM.cs\obj\Debug\HighestM.cs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HighestM.cs\HighestM.cs\obj\Debug\HighestM.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\HighestM.cs\HighestM.cs\obj\Debug\HighestM.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HighestM.cs\HighestM.cs\bin\Debug\HighestM.cs.exe.config
+C:\Users\HP\source\repos\HighestM.cs\HighestM.cs\bin\Debug\HighestM.cs.exe
+C:\Users\HP\source\repos\HighestM.cs\HighestM.cs\bin\Debug\HighestM.cs.pdb
+C:\Users\HP\source\repos\HighestM.cs\HighestM.cs\obj\Debug\HighestM.cs.exe
+C:\Users\HP\source\repos\HighestM.cs\HighestM.cs\obj\Debug\HighestM.cs.pdb

@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\A4StackException.cs\A4StackException.cs\obj\Debug\A4StackException.cs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\A4StackException.cs\A4StackException.cs\obj\Debug\A4StackException.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\A4StackException.cs\A4StackException.cs\obj\Debug\A4StackException.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\A4StackException.cs\A4StackException.cs\bin\Debug\A4StackException.cs.exe.config
+C:\Users\HP\source\repos\A4StackException.cs\A4StackException.cs\bin\Debug\A4StackException.cs.exe
+C:\Users\HP\source\repos\A4StackException.cs\A4StackException.cs\bin\Debug\A4StackException.cs.pdb
+C:\Users\HP\source\repos\A4StackException.cs\A4StackException.cs\obj\Debug\A4StackException.cs.exe
+C:\Users\HP\source\repos\A4StackException.cs\A4StackException.cs\obj\Debug\A4StackException.cs.pdb

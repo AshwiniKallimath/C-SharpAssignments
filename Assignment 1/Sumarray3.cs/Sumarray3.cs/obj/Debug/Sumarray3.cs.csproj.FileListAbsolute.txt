@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Sumarray3.cs\Sumarray3.cs\obj\Debug\Sumarray3.cs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sumarray3.cs\Sumarray3.cs\obj\Debug\Sumarray3.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Sumarray3.cs\Sumarray3.cs\obj\Debug\Sumarray3.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sumarray3.cs\Sumarray3.cs\bin\Debug\Sumarray3.cs.exe.config
+C:\Users\HP\source\repos\Sumarray3.cs\Sumarray3.cs\bin\Debug\Sumarray3.cs.exe
+C:\Users\HP\source\repos\Sumarray3.cs\Sumarray3.cs\bin\Debug\Sumarray3.cs.pdb
+C:\Users\HP\source\repos\Sumarray3.cs\Sumarray3.cs\obj\Debug\Sumarray3.cs.exe
+C:\Users\HP\source\repos\Sumarray3.cs\Sumarray3.cs\obj\Debug\Sumarray3.cs.pdb
