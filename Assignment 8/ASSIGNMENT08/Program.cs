@@ -35,7 +35,7 @@ namespace Reflectionexample
             salary = 0;
         }
 
-        // Parameterised Constructor
+      
         public Employee(int eno, string n, double sal)
         {
             empno = eno;
@@ -71,16 +71,15 @@ namespace Reflectionexample
 
                 MethodInfo[] methods = item.GetMethods();
                 foreach (var method in methods)
-                {
-
-                    Console.WriteLine("--> Method : {0}", method.Name);
+              
+                    Console.WriteLine("Method : {0}", method.Name);
 
 
                     ParameterInfo[] parameters = method.GetParameters();
                     foreach (var arg in parameters)
                     {
 
-                        Console.WriteLine("----> Parameter : {0} Type : {1}",
+                        Console.WriteLine("Parameter : {0} Type : {1}",
                                                 arg.Name, arg.ParameterType);
                     }
                 }
