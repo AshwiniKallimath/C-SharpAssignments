@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+#region
 class Highestm
 {
-
+ 
     static void Main(string[] args)
     {
+        #region BODY
         int i = 0;
         int highest = 0;
         int[] mark = new int[5];
@@ -22,7 +23,9 @@ class Highestm
             }
 
         }
+        #endregion
         Console.WriteLine("The highest marks among all students :" + highest);
         Console.ReadLine();
+        #endregion
     }
 }
