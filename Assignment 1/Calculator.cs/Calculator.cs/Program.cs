@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 using System;
 using System.Text;
 using System.Threading.Tasks;
-
+#region
 namespace calculator
 {
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
+            #region Body
             string value;
             do
             {
+                #region FIELDS
                 int res;
                 Console.Write("Enter first number:");
                 int num1 = Convert.ToInt32(Console.ReadLine());
@@ -23,7 +25,7 @@ namespace calculator
                 int num2 = Convert.ToInt32(Console.ReadLine());
                 Console.Write("Enter symbol(/,+,-,*):");
                 string symbol = Console.ReadLine();
-
+                #endregion
                 switch (symbol)
                 {
                     case "+":
@@ -52,6 +54,7 @@ namespace calculator
             }
             while (value == "y" || value == "Y");
         }
+        #endregion
     }
 
 }
